@@ -1,4 +1,4 @@
-name: Despliegue completo del código
+name: Despliegue completo del código.
 
 on:
   push:
